@@ -18,7 +18,7 @@ Suggested steps to completing this assignment:
 ----------------------------------------------
 1. Fork and clone down this repository
 2. Run the program. It should draw a single green line on the screen. This will be the "trunk" of the Fractal Tree. Notice the three `private` variables. Changing the numbers in these `private` variables will change the appearance of the tree, i.e. how much smaller the branches are, how small the branches will get and the angle between the branches.
-3. Now we'll write a function to draw the branches on the tree Here's some pseudocode describing the drawBranches function:  
+3. Now we'll write a function to draw the branches on the tree Here's some pseudocode describing the `drawBranches` function:  
 
 	* declare two local `double` variables: `angle1` and `angle2`. These will hold the angles of the branches. Initialize one to `angle` plus `branchAngle` and the other to `angle` minus `branchAngle`. This will create the V shape of the branches.  
 	* reduce `branchLength` by multiplying it by `fractionLength`. This will be the (shorter) length of the new branch.
