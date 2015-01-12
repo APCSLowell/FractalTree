@@ -1,23 +1,40 @@
-Sierpinski Triangle
-==================
+Fractal Tree
+============
 
-The Sierpinski Triangle is a fractal. According to [Wikipedia](http://en.wikipedia.org/wiki/Sierpinski_triangle) it was named after "mathematician Waclaw Sierpinski who described it in 1915. However, similar patterns appear already in the 13th-century Cosmati mosaics in the cathedral of Anagni, Italy." You can create the Sierpinski Triangle (and very similar fractals) with surprisingly little code. The following picture and instructions are also from Wikipedia.
+How to draw a tree  
 
-![Alt text](http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sierpinski_triangle_evolution.svg/512px-Sierpinski_triangle_evolution.svg.png)
+![alt text](tree.JPG)  
 
-Start with any triangle in a plane (any closed, bounded region in the plane will actually work). The canonical Sierpinski triangle uses an equilateral triangle with a base parallel to the horizontal axis (first image). Shrink the triangle to ½ height and ½ width, make three copies, and position the three shrunken triangles so that each triangle touches the two other triangles at a corner (image 2). Note the emergence of the central hole - because the three shrunken triangles can between them cover only 3/4 of the area of the original. (Holes are an important feature of Sierpinski's triangle.) Repeat step 2 with each of the smaller triangles (image 3 and so on).
+Imagine you were describing how to draw a tree. You might say: 
+
+* Draw a vertical line  
+* At the top of the line, draw two smaller lines ("branches") in a v shape  
+* At the ends of each of those two branches, draw two even smaller branches  
+* Keep repeating the process, drawing smaller and smaller branches until the branches are too small to draw  
+
+This process of repeating the same design at a continually decreasing scale is an example of a Fractal. Using fractals to draw trees can give some interesting and beautiful patterns. In this assignment we will use a recursive branching function to create a fractal tree.
 
 Suggested steps to completing this assignment:
 ----------------------------------------------
 1. Fork and clone down this repository
-2. Write the `sierpinski` function:
+2. Run the program. It should draw a single green line on the screen. This will be the "trunk" of the Fractal Tree. Notice the three `private` variables. Changing the numbers in these `private` variables will change the appearance of the tree, i.e. how much smaller the branches are, how small the branches will get and the angle between the branches.
+3. Now we'll write a function to draw the branches on the tree Here's some pseudocode describing the drawBranches function:  
 
-    * If `len` is greater than 20 (or some variable) recursively call the `sierpinksi` function to draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len/2`.
-        * Again, call the `sierpinksi` function a second time to draw another triangle a distance of `len/2` to the right of the first triangle.
-        * Now, call the `sierpinksi` function a third time to draw a triangle a distance of `len/4` to the right and `len/2` up from the first triangle. This triangle should "sit on top" of the first two.
-    * else
-        * Draw a triangle with the left corner at (`x`,`y`) and a base and height equal to `len`.
-3. Once you have the `sierpinksi` function completed, call it once in `draw()` to start the process. You can change the number and size of the triangles by changing the limit in the `if` from 20 to some variable and adjusting the value of the variable. One way to make the program interactive is to use `mouseDragged` to change the limit.
-4. Feel free to create your own inidividual variation of the Sierpinski triangle. [Your recursive triangle doesn't have to look like any other](http://www.google.com/search?q=variations+on+a+theme+of+sierpinski&safe=active&es_sm=122&source=lnms&tbm=isch&sa=X&ei=Ku-uVP7vEJecoQSvwoCADg&ved=0CAoQ_AUoAw&biw=1280&bih=856&surl=1#safe=active&tbm=isch&q=variations+on+sierpinski+triangle&imgdii=_). 
-5. You could also create a [Sierpinski carpet](http://en.wikipedia.org/wiki/Sierpinski_carpet) as an alternative to the Sierpinski Triangle.
+	* declare two local `double` variables: `angle1` and `angle2`. These will hold the angles of the branches. Initialize one to `angle` plus `branchAngle` and the other to `angle` minus `branchAngle`. This will create the V shape of the branches.  
+	* reduce `branchLength` by multiplying it by `fractionLength`. This will be the (shorter) length of the new branch.
+	* While the starting point of the new branches is just the endpoint of the previous branch or trunk, we'll have to use some trig to calculate the branches endpoints before we can draw them. Declare four local variables `endX1` `endY1` `endX2` `endY2`. We can calculate the endpoints with code like:
 
+		`int endX1 = (int)(branchLength*Math.cos(angle1) + x);`  
+		`int endY1 = (int)(branchLength*Math.sin(angle1) + y);`  
+	* Now, draw two lines, both starting from (`x`,`y`) but ending at the two different end points you just calculated.  
+
+4. Now go back to the `draw` function, and uncomment the call to `drawBranches`. You'll fill in the four arguments: `320` and `380` (the endpoint of the trunk is the starting point of the two branches) `100` (the length of the trunk) `3*Math.PI/2` (The angle of the trunk--a vertical angle in Java's system of radian measure). You should now see two branches in a V shape on the end of the trunk.
+5. Now, the magic starts! We're going to use recursion to put branches on the branches! At the end of the `drawBranches` function write code so that if `branchLength` is larger than `smallestBranch`, `drawBranches` is called twice, once for each of the endpoints, e.g. (`endX1`,`endY1`). Be sure to use the two different angles for the two different branches. You should now see a fully formed Fractal Tree!
+
+
+
+Adding Keyboard input
+----------------------
+The program becomes more interesting when you can adjust `branchAngle` `fractionLength` and `smallestBranch`. Add a `keyTyped()` function that allows the user to adjust those values and then call `redraw()` to draw the screen again.  
+
+Extensions: You can have the width of the branches change with the length. You can also introduce a little bit of randomness for more realism. You could also add a third, middle branch to make a more realistic looking tree. There are also many other types of Fractal Trees. Browse the internet and see what ideas you can come up with, your fractal tree doesn't have to look like any other.
