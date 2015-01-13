@@ -16,7 +16,7 @@ This process of repeating the same design at a continually decreasing scale is a
 
 Suggested steps to completing this assignment:
 ----------------------------------------------
-1. Fork and clone down this repository  
+1. Fork and clone down this repository    
 2. Run the program. It should draw a single green line on the screen. This will be the "trunk" of the Fractal Tree. Notice the three `private` variables. Changing the numbers in these `private` variables will change the appearance of the tree, i.e. how much smaller the branches are, how small the branches will get and the angle between the branches.
 3. Now we'll write a function to draw the branches on the tree Here's some pseudocode describing the `drawBranches` function:  
 
