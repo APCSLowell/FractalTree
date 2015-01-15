@@ -41,4 +41,5 @@ The program becomes more interesting when you can adjust `branchAngle` `fraction
 Extensions: You can have the width of the branches change with the length. You can also introduce a little bit of randomness for more realism. You could also add a third, middle branch to make a more realistic looking tree. There are also many other types of Fractal Trees. Browse the internet and see what ideas you can come up with, your fractal tree doesn't have to look like any other.
 
 Samples of Student Work
+-----------------------
 [Dante](http://avekan33.github.io/SierpinskiTriangle/)  
