@@ -42,4 +42,5 @@ Extensions: You can have the width of the branches change with the length. You c
 
 Samples of Student Work
 -----------------------
-[Dante](http://avekan33.github.io/SierpinskiTriangle/)  
+[Dante](http://avekan33.github.io/SierpinskiTriangle/)   
+[Zachary](http://zachooz.github.io/FractalTree/)  
