@@ -44,3 +44,6 @@ Samples of Student Work
 -----------------------
 [Dante](http://avekan33.github.io/SierpinskiTriangle/)   
 [Zachary](http://zachooz.github.io/FractalTree/)  
+[Jingbin](http://ben441318936.github.io/FractalTree/)  
+[Kenta](http://redtorch.github.io/FractalTree/)  
+[Lucy](http://luchen825.github.io/FractalTree/)  
