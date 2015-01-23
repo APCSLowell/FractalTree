@@ -42,6 +42,9 @@ Extensions: You can have the width of the branches change with the length. You c
 
 Samples of Student Work
 -----------------------
+[Gigi](http://gigibyte327.github.io/FractalTree/)  
+[Cora](http://coramonokandilos.github.io/FractalTree/)  
+[Chris](http://chrisma1.github.io/FractalTree/)  
 [Yufan](http://yuxu1.github.io/FractalTree/)   
 [Lily](http://magicallilicorn.github.io/FractalTree/)  
 [Zachary](http://zachooz.github.io/FractalTree/)  
