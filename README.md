@@ -45,6 +45,7 @@ Samples of Student Work
 [Gigi](http://gigibyte327.github.io/FractalTree/)  
 [Cora](http://coramonokandilos.github.io/FractalTree/)  
 [Erika](http://bekutaa.github.io/FractalTree/)  
+[Celena](http://celenac.github.io/FractalTree/)  
 [Chris](http://chrisma1.github.io/FractalTree/)  
 [Yufan](http://yuxu1.github.io/FractalTree/)   
 [Lily](http://magicallilicorn.github.io/FractalTree/)  
