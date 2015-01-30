@@ -55,7 +55,6 @@ Samples of Student Work
 [Yufan](http://yuxu1.github.io/FractalTree/)   
 [Lily](http://magicallilicorn.github.io/FractalTree/)  
 [Lee](http://shleewhite.github.io/FractalTree/)   
-[Lee](http://shleewhite.github.io/OriginalFractal/)  
 [Zachary](http://zachooz.github.io/FractalTree/)  
 [Jingbin](http://ben441318936.github.io/FractalTree/)  
 [Kenta](http://redtorch.github.io/FractalTree/)  
