@@ -65,3 +65,6 @@ Samples of Student Work
 [Christine](http://christinechao.github.io/FractalTree/)  
 [David](http://goliathuros.github.io/FractalTree/)  
 [Antonio](http://adcarmona.github.io/FractalTree/)  
+[Teresa](http://teresamibarra.me/FractalTree/)  
+[Aaron](http://aaronchowapcs.github.io/FractalTree/)  
+[Rain](http://pioggia.github.io/FractalTree/)  
