@@ -45,6 +45,7 @@ Samples of Student Work
 [Sasha](http://sashagonzalez.github.io/FractalTree/)  
 [Calvin](http://icalvin12.github.io/FractalTree/)  
 [Gigi](http://gigibyte327.github.io/FractalTree/)  
+[David](http://mostexcellent.github.io/FractalTree/)   
 [Cora](http://coramonokandilos.github.io/FractalTree/)  
 [Nathan](http://naguan.github.io/FractalTree/)  
 [Ethan](http://emdarcher.github.io/FractalTree/)   
