@@ -47,6 +47,7 @@ Samples of Student Work
 [Jimmy](http://furiouspenguins.github.io/FractalTree/)  
 [Elliot](http://elliottdebruin.github.io/FractalTree/)  
 [Aliya](http://aliyachambless.github.io/FractalTree/)  
+[Dmitry](http://dkuliaev.github.io/FractalTree/)  
 [Christopher](http://cjlim2007apcs.github.io/FractalTree/)  
 [Lin](http://lin00.github.io/FractalTree/)  
 [Theo](http://awesomestickman.github.io/FractalTree/)  
