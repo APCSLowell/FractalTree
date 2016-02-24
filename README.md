@@ -34,11 +34,11 @@ Suggested steps to completing this assignment:
 
 
 
-Adding Keyboard input
+Extensions
 ----------------------
-The program becomes more interesting when you can adjust `branchAngle` `fractionLength` and `smallestBranch`. Add a `keyTyped()` function that allows the user to adjust those values and then call `redraw()` to draw the screen again.  
+The program becomes more interesting when you can adjust `branchAngle` `fractionLength` and `smallestBranch`. You could add a `keyTyped()` function that allows the user to adjust those values and then call `redraw()` to draw the screen again.  
 
-Extensions: You can have the width of the branches change with the length. You can also introduce a little bit of randomness for more realism. You could also add a third, middle branch to make a more realistic looking tree. There are also many other types of Fractal Trees. Browse the internet and see what ideas you can come up with, your fractal tree doesn't have to look like any other.
+You could also have the width of the branches change with the length. You might also introduce a little bit of randomness for more realism. You could even add a third, middle branch to make a more realistic looking tree. There are also many other types of Fractal Trees. Browse the internet and see what ideas you can come up with, your fractal tree doesn't have to look like any other.
 
 Samples of Student Work
 -----------------------
