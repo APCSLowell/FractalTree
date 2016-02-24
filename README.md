@@ -12,7 +12,7 @@ Imagine you were describing how to draw a tree. You might say:
 * At the ends of each of those two branches, draw two even smaller branches  
 * Keep repeating the process, drawing smaller and smaller branches until the branches are too small to draw  
 
-This process of repeating the same design at a continually decreasing scale is an example of a Fractal. Using fractals to draw trees can give some interesting and beautiful patterns. In this assignment we will use a recursive branching function to create a fractal tree.
+This process of repeating the same design at a continually decreasing scale is an example of a fractal. Using fractals to draw trees can give some interesting and beautiful patterns. In this assignment we will use a recursive branching function to create a fractal tree.
 
 Suggested steps to completing this assignment:
 ----------------------------------------------
