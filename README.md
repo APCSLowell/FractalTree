@@ -38,7 +38,7 @@ Extensions
 ----------------------
 The program becomes more interesting when you can adjust `branchAngle` `fractionLength` and `smallestBranch`. You could add a `keyTyped()` function that allows the user to adjust those values and then call `redraw()` to draw the screen again.  
 
-You could also have the width of the branches change with the length. You might also introduce a little bit of randomness for more realism. You could even add a third, middle branch to make a more realistic looking tree. There are also many other types of Fractal Trees. Browse the internet and see what ideas you can come up with, your fractal tree doesn't have to look like any other.
+You could also have the width of the branches change with the length. You might introduce a little bit of randomness to the branch angles for more realism. You could even add a third, middle branch to make a more realistic looking tree. There are also many other types of Fractal Trees. Browse the internet and see what ideas you can come up with, your fractal tree doesn't have to look like any other.
 
 Samples of Student Work
 -----------------------
