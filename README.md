@@ -55,7 +55,7 @@ Samples of Student Work
 [Jeanette](http://roquefortt.github.io/FractalTree/)  
 [Noah](http://noahzpepper.github.io/FractalTree/)  
 [Andre](http://ardzejafyl.github.io/FractalTree/)  
-[Ka Ki](http://kaki123.github.io/FractalTree/) 
+[Ka Ki](http://kaki123.github.io/FractalTree/)  
 [Tian Lun](http://tianlunlee.github.io/FractalTree/)  
 [Brandi](http://brw1221.github.io/FractalTree/)  
 [Edmond](http://edmondsitu.github.io/FractalTree/)  
