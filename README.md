@@ -60,7 +60,6 @@ Samples of Student Work
 [Brandi](http://brw1221.github.io/FractalTree/)  
 [Edmond](http://edmondsitu.github.io/FractalTree/)  
 [Andrew](http://andrewtheo.github.io/FractalTree/)  
-[Alica](http://aliciazz.github.io/SierpinskiTriangle/)  
 [Aidan](http://hakyojin.github.io/FractalTree/)  
 [Dmitry](http://dkuliaev.github.io/FractalTree/)  
 [Christopher](http://cjlim2007apcs.github.io/FractalTree/)  
