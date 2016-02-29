@@ -47,6 +47,7 @@ Samples of Student Work
 [Alica](http://aliciazz.github.io/FractalTree/)  
 [Steven](http://crzysteven.github.io/FractalTree/)  
 [Stephan](http://stephan-xie-01.github.io/FractalTree/)  
+[Brian](http://articlegend.github.io/FractalTree/)  
 [Matthew](http://yeahmatts.github.io/FractalTree/)  
 [Sida](http://sidaqin.github.io/FractalTree/)  
 [Brian](http://btx123.github.io/FractalTree/)  
