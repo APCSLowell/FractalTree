@@ -42,7 +42,14 @@ You could also have the width of the branches change with the length. You might 
 
 Samples of Student Work
 -----------------------
+[Steve](https://sjkchang.github.io/FractalTree/)   
 [Edmond](http://firework999363.github.io/FractalTree/)  
+[Will](https://williammai.github.io/FractalTree/)   
+[Preston](https://prestonttt.github.io/FractalTree/)   
+[Thanawat](https://thiskappaisgrey.github.io/FractalTree/index.html)   
+[Aaron](https://aahuangithub.github.io/FractalTree/)   
+[Nghi](https://nagirokudo.github.io/FractalTree/)   
+[Andrea](https://chenandrea29.github.io/FractalTree/)   
 [Raul](http://raulrosen.github.io/FractalTree/)  
 [Leo](http://lkitano.github.io/FractalTree/)  
 [Stephen](http://stephendoes.github.io/FractalTree/)  
