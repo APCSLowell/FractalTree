@@ -46,6 +46,7 @@ Samples of Student Work
 [Janet](https://birded.github.io/FractalTree/)   
 [Robert](https://rshi159.github.io/FractalTree/)   
 [Nathan](https://nathansng.github.io/FractalTree/)   
+[Dean](https://deanhuynh.github.io/FractalTree/)   
 [Makoi](https://magacula1.github.io/FractalTree/)   
 [Kenny](https://kennyyu168.github.io/FractalTree/)   
 [Mi-Kaela](https://mikamarciales.github.io/FractalTree/)   
