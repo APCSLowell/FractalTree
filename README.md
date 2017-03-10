@@ -46,6 +46,7 @@ Samples of Student Work
 [Jenna](https://jennaralll.github.io/FractalTree/)   
 [Andrew](https://ansue1234.github.io/FractalTree/)   
 [Janet](https://birded.github.io/FractalTree/)   
+[Ben](https://benjaminlanir.github.io/FractalTree/)   
 [Robert](https://rshi159.github.io/FractalTree/)   
 [Katie](https://kachow4.github.io/FractalTree/)   
 [Erica](https://ericamalia.github.io/FractalTree/)   
