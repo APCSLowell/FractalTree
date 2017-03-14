@@ -50,6 +50,8 @@ Samples of Student Work
 [Robert](https://rshi159.github.io/FractalTree/)   
 [Katie](https://kachow4.github.io/FractalTree/)   
 [Erica](https://ericamalia.github.io/FractalTree/)   
+[Brandon](https://brandontom96.github.io/FractalTree/)   
+[Eric](https://jellybeanmill.github.io/OriginalFractal/)   
 [Dillon](https://dillonlee27.github.io/FractalTree/)   
 [Karen](https://sonokjw.github.io/FractalTree/)   
 [Jenny](https://jeyu21.github.io/FractalTree/)   
