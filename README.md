@@ -54,7 +54,7 @@ Samples of Student Work
 [Emma](https://emblenkinsop.github.io/FractalTree/)   
 [Ashton](https://riseofthesaber.github.io/FractalTree/)   
 [Cynthia](https://cylee1.github.io/FractalTree/)   
-[sherissa](https://sherissago.github.io/FractalTree/)   
+[Sherissa](https://sherissago.github.io/FractalTree/)   
 [James](https://james168ma.github.io/FractalTree/)   
 [Andrew](https://drewren25.github.io/FractalTree/)   
 [Claudia](https://zixuanshao.github.io/FractalTree/)   
