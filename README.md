@@ -47,6 +47,7 @@ Samples of Student Work
 [Fred](https://fredxhua.github.io/FractalTree/)   
 [Marisa](https://saeriam.github.io/FractalTree/)   
 [Caitlin](https://caitlinchann.github.io/FractalTree/)   
+[Alexis](https://alexisapcs.github.io/FractalTree/)   
 [Emma](https://emmab3.github.io/FractalTree/)   
 [William](https://willsamc16.github.io/FractalTree/)   
 [Calvin](https://callmecalvin808.github.io/FractalTree/)   
